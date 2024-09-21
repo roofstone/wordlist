@@ -1,0 +1,44 @@
+body{
+    background-color: darkslategray;
+    color:white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.heading {
+    font-size: 44px;
+    color: yellow;
+}
+
+.your-word {
+    font-size: 30px;
+    color:yellowgreen;
+}
+
+.word {
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+.button {
+    padding: 18px 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: orange;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.previouswords {
+    margin: 40px auto 0;
+    width: 500px;
+    line-height: 28px;
+    font-weight: 600;
+    color: red;
+
+}
+
+.old-words {
+    font-weight: 300;
+}
